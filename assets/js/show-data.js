@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
         bestSellers.forEach((p) => {
           const offerHtml = `
                     <div class="col-md-6">
-                        <div class="offer-card" data-overlay="title" data-opacity="2" data-bg-src="${p.image}" style="background-image: url('${p.image}')">
+                        <div class="offer-card" data-overlay="title" data-opacity="5" data-bg-src="${p.image}" style="background-image: url('${p.image}')">
                             <div class="box-content">
                                 <span class="box-subtitle">Produk Terlaris</span>
                                 <h4 class="box-title">${p.name}</h4>
@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
         data.headline.forEach((h) => {
           const headlineHtml = `
                     <div class="hero-slider" data-bg-src="${h.image}" style="background-image: url('${h.image}');">
-                        <div class="hero-overlay" data-overlay="title" data-opacity="3"></div>
+                        <div class="hero-overlay" data-overlay="title" data-opacity="8"></div>
                         <div class="container container3">
                             <div class="row">
                                 <div class="col-lg-6 col-md-7">

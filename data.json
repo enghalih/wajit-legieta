@@ -36,7 +36,7 @@
       "name": "wajit original (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
-      "image": "./assets/img/legieta/wajit-legieta-rasa-original-terbuka.JPG",
+      "image": "./assets/img/legieta/wajit-legieta-rasa-original-terbuka.webp",
       "bestSeller": true,
       "linkShopee": "https://shopee.co.id/Wajit-Cililin-Original-(Ketan-Putih)-Legieta-500g-%E2%80%93-Manis-Legit-Wangi-Kelapa-Oleh-Oleh-Khas-Bandung-i.192378541.5643553973?extraParams=%7B%22display_model_id%22%3A60394816174%2C%22model_selection_logic%22%3A3%7D",
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKHhLr5/"
@@ -45,7 +45,7 @@
       "name": "wajit ketan hitam (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
-      "image": "./assets/img/legieta/wajit-legieta-rasa-ketan-hitam-terbuka.JPG",
+      "image": "./assets/img/legieta/wajit-legieta-rasa-ketan-hitam-terbuka.webp",
       "bestSeller": true,
       "linkShopee": "https://shopee.co.id/Wajit-Cililin-Ketan-Hitam-Legieta-500g-%E2%80%93-Legit-Wangi-an-Gurih-Kelapa-Jajanan-Tradisional-Bandung-Oleh-oleh-Khas-Bandung-Cemilan-manis-i.192378541.6543552900?extraParams=%7B%22display_model_id%22%3A40394643445%2C%22model_selection_logic%22%3A2%7D&sp_atk=8c4a1fa4-5d5f-4f68-9d43-0c16b0134e85&xptdk=8c4a1fa4-5d5f-4f68-9d43-0c16b0134e85",
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKxNqcb/"
@@ -54,7 +54,7 @@
       "name": "wajit durian (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
-      "image": "./assets/img/legieta/wajit-legieta-rasa-durian-terbuka.JPG",
+      "image": "./assets/img/legieta/wajit-legieta-rasa-durian-terbuka.webp",
       "bestSeller": false,
       "linkShopee": "https://shopee.co.id/Wajit-Cililin-Durian-Legieta-500g-%E2%80%93-Legit-Harum-Durian-Cemilan-Khas-Bandung-Oleh-olah-Tradisional-Jajanan-dan-cemilan-manis-i.192378541.3971195929?extraParams=%7B%22display_model_id%22%3A72753011337%2C%22model_selection_logic%22%3A3%7D",
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKH3rNy/"
@@ -63,7 +63,7 @@
       "name": "wajit pandan (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
-      "image": "./assets/img/legieta/wajit-legieta-rasa-pandan-terbuka.JPG",
+      "image": "./assets/img/legieta/wajit-legieta-rasa-pandan-terbuka.webp",
       "bestSeller": false,
       "linkShopee": "https://shopee.co.id/Wajit-Cililin-Pandan-500g-%E2%80%93-Wangi-Pandan-Alami-Cemilan-Tradisional-Bandung-Oleh-oleh-Khas-Cemilan-manis-i.192378541.4871111214?extraParams=%7B%22display_model_id%22%3A23478652432%2C%22model_selection_logic%22%3A3%7D",
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKxrSMC/"
@@ -72,7 +72,7 @@
       "name": "wajit nangka (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
-      "image": "./assets/img/legieta/wajit-legieta-rasa-nangka-terbuka.JPG",
+      "image": "./assets/img/legieta/wajit-legieta-rasa-nangka-terbuka.webp",
       "bestSeller": false,
       "linkShopee": "https://shopee.co.id/Wajit-Cililin-Rasa-Nangka-Legieta-500g-%E2%80%93-Manis-Legit-Wangi-Oleh-Oleh-Tradisional-i.192378541.9605505071?extraParams=%7B%22display_model_id%22%3A90415674758%2C%22model_selection_logic%22%3A3%7D",
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKxM331/"
@@ -81,7 +81,7 @@
       "name": "wajit stroberi (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
-      "image": "./assets/img/legieta/wajit-legieta-rasa-stroberi-terbuka.JPG",
+      "image": "./assets/img/legieta/wajit-legieta-rasa-stroberi-terbuka.webp",
       "bestSeller": true,
       "linkShopee": "https://shopee.co.id/Wajit-Cililin-Stroberi-Legieta-500g-%E2%80%93-Manis-Segar-Aroma-Stroberi-Jajanan-Tradisional-Bandung-i.192378541.3671480323?extraParams=%7B%22display_model_id%22%3A32801421662%2C%22model_selection_logic%22%3A3%7D",
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKxhACF/"
@@ -89,38 +89,38 @@
   ],
   "socialMedia": [
     {
-      "image": "./assets/img/legieta/thumbnail-2.png",
+      "image": "./assets/img/legieta/thumbnail-2.webp",
       "url": "https://www.instagram.com/reel/DOKyIuZkkct/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     },
     {
-      "image": "./assets/img/legieta/thumbnail-1.png",
+      "image": "./assets/img/legieta/thumbnail-1.webp",
       "url": "https://www.instagram.com/reel/DMtkgcCzNsE/?igsh=MTQ1OGg2d3E1ejdycg== instagram"
     },
     {
-      "image": "./assets/img/legieta/thumbnail-3.jpg",
+      "image": "./assets/img/legieta/thumbnail-3.webp",
       "url": "https://www.tiktok.com/@legieta_/video/7604426039808347413?is_from_webapp=1&sender_device=pc&web_id=7575445521805051399"
     },
     {
-      "image": "./assets/img/legieta/thumbnail-4.png",
+      "image": "./assets/img/legieta/thumbnail-4.webp",
       "url": "https://www.tiktok.com/@legieta_/video/7607896675650227477?is_from_webapp=1&sender_device=pc&web_id=7575445521805051399"
     },
     {
-      "image": "./assets/img/legieta/thumbnail-5.png",
+      "image": "./assets/img/legieta/thumbnail-5.webp",
       "url": "https://www.instagram.com/reel/DQi7e3Ckghx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     }
   ],
   "headline": [
     {
       "title": "Manisnya Tradisi, Eratkan Silaturahmi.",
-      "image": "./assets/img/legieta/hero-image-2.JPG"
+      "image": "./assets/img/legieta/hero-image-2.webp"
     },
     {
       "title": "Wajit Legieta: Alasan Untuk Berkumpul.",
-      "image": "./assets/img/legieta/hero-image-1.JPG"
+      "image": "./assets/img/legieta/hero-image-1.webp"
     },
     {
       "title": "Berbagi Cerita dalam Setiap Gigitan.",
-      "image": "./assets/img/legieta/hero-image-5.JPG"
+      "image": "./assets/img/legieta/hero-image-5.webp"
     }
   ]
 }
