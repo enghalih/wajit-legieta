@@ -550,172 +550,172 @@
   }
 }
 
-/* Header 2 ---------------------------------- */
-.header-layout2 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  .sticky-wrapper {
-    padding: 0px 36px;
-    .header-links {
-      a {
-        color: $white-color;
-      }
-    }
-  }
-  .main-menu > ul > li > a {
-    padding: 44.5px 20px;
-    color: $white-color;
-    &:before {
-      border-color: $white-color;
-    }
-    &:hover {
-      &:before {
-        background: $white-color;
-      }
-    }
-  }
-  .main-menu ul.sub-menu {
-    background: $white-color;
-    a {
-      color: $title-color;
-    }
-    & li.active {
-      & > a {
-        color: $title-color;
-      }
-    }
-    .menu-item-has-children > a:before,
-    .menu-item-has-children > a:after {
-      background: $title-color;
-    }
-  }
-  .header-button .search-btn {
-    color: $white-color;
-  }
-  .sticky-wrapper.header-sticky {
-    background: $title-color;
-  }
-  .sidebar-btn {
-    border-color: $white-color;
-    margin: 25px 0;
-    .line {
-      background: $white-color;
-    }
-  }
-  &.style2 {
-    .main-menu > ul > li > a {
-      color: $title-color;
-      &:before {
-        border-color: $title-color;
-      }
-      &:hover {
-        &:before {
-          background: $title-color;
-        }
-      }
-    }
-    .main-menu ul.sub-menu {
-      background: $title-color;
-      a {
-        color: $white-color;
-      }
-      & li.active {
-        & > a {
-          color: $theme-color;
-        }
-      }
-      .menu-item-has-children > a:before,
-      .menu-item-has-children > a:after {
-        background: $white-color;
-      }
-    }
-    .header-button .search-btn {
-      color: $title-color;
-    }
-    .sticky-wrapper.header-sticky {
-      background: $white-color;
-    }
-    .sidebar-btn {
-      border-color: $title-color;
-      .line {
-        background: $title-color;
-      }
-    }
-  }
-  @include hd {
-    .menu-area {
-      max-width: 1848px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-  }
-  @include md {
-    .sticky-wrapper {
-      padding: 15px 36px;
-    }
-    .sidebar-btn {
-      margin: 0;
-    }
-  }
-  @include xs {
-    .sticky-wrapper {
-      padding: 15px 0px;
-    }
-  }
-}
-/* Header 3 ---------------------------------- */
-.header-layout3 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  .sticky-wrapper {
-    padding: 0px 36px;
-    .header-links {
-      a {
-        color: $white-color;
-      }
-    }
-  }
-  .main-menu > ul > li > a {
-    padding: 44.5px 20px;
-    &:before {
-      border-color: $white-color;
-    }
-    &:hover {
-      &:before {
-        background: $white-color;
-      }
-    }
-    @include lg {
-      padding: 44.5px 15px;
-    }
-  }
-  @include hd {
-    .menu-area {
-      max-width: 1848px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-  }
-  @include lg {
-    .header-button {
-      margin-left: 25px;
-    }
-  }
-  @include md {
-    .sticky-wrapper {
-      padding: 15px 36px;
-    }
-  }
-  @include xs {
-    .sticky-wrapper {
-      padding: 15px 0px;
-    }
-  }
-}
+// /* Header 2 ---------------------------------- */
+// .header-layout2 {
+//   position: absolute;
+//   top: 0;
+//   left: 0;
+//   right: 0;
+//   .sticky-wrapper {
+//     padding: 0px 36px;
+//     .header-links {
+//       a {
+//         color: $white-color;
+//       }
+//     }
+//   }
+//   .main-menu > ul > li > a {
+//     padding: 44.5px 20px;
+//     color: $white-color;
+//     &:before {
+//       border-color: $white-color;
+//     }
+//     &:hover {
+//       &:before {
+//         background: $white-color;
+//       }
+//     }
+//   }
+//   .main-menu ul.sub-menu {
+//     background: $white-color;
+//     a {
+//       color: $title-color;
+//     }
+//     & li.active {
+//       & > a {
+//         color: $title-color;
+//       }
+//     }
+//     .menu-item-has-children > a:before,
+//     .menu-item-has-children > a:after {
+//       background: $title-color;
+//     }
+//   }
+//   .header-button .search-btn {
+//     color: $white-color;
+//   }
+//   .sticky-wrapper.header-sticky {
+//     background: $title-color;
+//   }
+//   .sidebar-btn {
+//     border-color: $white-color;
+//     margin: 25px 0;
+//     .line {
+//       background: $white-color;
+//     }
+//   }
+//   &.style2 {
+//     .main-menu > ul > li > a {
+//       color: $title-color;
+//       &:before {
+//         border-color: $title-color;
+//       }
+//       &:hover {
+//         &:before {
+//           background: $title-color;
+//         }
+//       }
+//     }
+//     .main-menu ul.sub-menu {
+//       background: $title-color;
+//       a {
+//         color: $white-color;
+//       }
+//       & li.active {
+//         & > a {
+//           color: $theme-color;
+//         }
+//       }
+//       .menu-item-has-children > a:before,
+//       .menu-item-has-children > a:after {
+//         background: $white-color;
+//       }
+//     }
+//     .header-button .search-btn {
+//       color: $title-color;
+//     }
+//     .sticky-wrapper.header-sticky {
+//       background: $white-color;
+//     }
+//     .sidebar-btn {
+//       border-color: $title-color;
+//       .line {
+//         background: $title-color;
+//       }
+//     }
+//   }
+//   @include hd {
+//     .menu-area {
+//       max-width: 1848px;
+//       margin-left: auto;
+//       margin-right: auto;
+//     }
+//   }
+//   @include md {
+//     .sticky-wrapper {
+//       padding: 15px 36px;
+//     }
+//     .sidebar-btn {
+//       margin: 0;
+//     }
+//   }
+//   @include xs {
+//     .sticky-wrapper {
+//       padding: 15px 0px;
+//     }
+//   }
+// }
+// /* Header 3 ---------------------------------- */
+// .header-layout3 {
+//   position: absolute;
+//   top: 0;
+//   left: 0;
+//   right: 0;
+//   .sticky-wrapper {
+//     padding: 0px 36px;
+//     .header-links {
+//       a {
+//         color: $white-color;
+//       }
+//     }
+//   }
+//   .main-menu > ul > li > a {
+//     padding: 44.5px 20px;
+//     &:before {
+//       border-color: $white-color;
+//     }
+//     &:hover {
+//       &:before {
+//         background: $white-color;
+//       }
+//     }
+//     @include lg {
+//       padding: 44.5px 15px;
+//     }
+//   }
+//   @include hd {
+//     .menu-area {
+//       max-width: 1848px;
+//       margin-left: auto;
+//       margin-right: auto;
+//     }
+//   }
+//   @include lg {
+//     .header-button {
+//       margin-left: 25px;
+//     }
+//   }
+//   @include md {
+//     .sticky-wrapper {
+//       padding: 15px 36px;
+//     }
+//   }
+//   @include xs {
+//     .sticky-wrapper {
+//       padding: 15px 0px;
+//     }
+//   }
+// }
 
 /* Header 4 ---------------------------------- */
 .header-layout4 {

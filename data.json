@@ -33,7 +33,7 @@
   ],
   "product": [
     {
-      "name": "wajit original (500g)",
+      "name": "Wajit Original (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
       "image": "./assets/img/legieta/wajit-legieta-rasa-original-terbuka.webp",
@@ -42,7 +42,7 @@
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKHhLr5/"
     },
     {
-      "name": "wajit ketan hitam (500g)",
+      "name": "Wajit Ketan Hitam (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
       "image": "./assets/img/legieta/wajit-legieta-rasa-ketan-hitam-terbuka.webp",
@@ -51,7 +51,7 @@
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKxNqcb/"
     },
     {
-      "name": "wajit durian (500g)",
+      "name": "Wajit Durian (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
       "image": "./assets/img/legieta/wajit-legieta-rasa-durian-terbuka.webp",
@@ -60,7 +60,7 @@
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKH3rNy/"
     },
     {
-      "name": "wajit pandan (500g)",
+      "name": "Wajit Pandan (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
       "image": "./assets/img/legieta/wajit-legieta-rasa-pandan-terbuka.webp",
@@ -69,7 +69,7 @@
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKxrSMC/"
     },
     {
-      "name": "wajit nangka (500g)",
+      "name": "Wajit Nangka (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
       "image": "./assets/img/legieta/wajit-legieta-rasa-nangka-terbuka.webp",
@@ -78,13 +78,58 @@
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKxM331/"
     },
     {
-      "name": "wajit stroberi (500g)",
+      "name": "Wajit Stroberi (500g)",
       "price": 29900,
       "priceBeforeDiscount": 50000,
       "image": "./assets/img/legieta/wajit-legieta-rasa-stroberi-terbuka.webp",
-      "bestSeller": true,
+      "bestSeller": false,
       "linkShopee": "https://shopee.co.id/Wajit-Cililin-Stroberi-Legieta-500g-%E2%80%93-Manis-Segar-Aroma-Stroberi-Jajanan-Tradisional-Bandung-i.192378541.3671480323?extraParams=%7B%22display_model_id%22%3A32801421662%2C%22model_selection_logic%22%3A3%7D",
       "linkTokopedia": "https://tk.tokopedia.com/ZSmKxhACF/"
+    },
+    {
+      "name": "Wajit Klasik (400g)",
+      "price": 26390,
+      "priceBeforeDiscount": 50000,
+      "image": "./assets/img/legieta/wajit-klasik.webp",
+      "bestSeller": false,
+      "linkShopee": "",
+      "linkTokopedia": ""
+    },
+    {
+      "name": "Wajit Chilegie (500g)",
+      "price": 28900,
+      "priceBeforeDiscount": 50000,
+      "image": "./assets/img/legieta/chilegie.webp",
+      "bestSeller": false,
+      "linkShopee": "",
+      "linkTokopedia": ""
+    },
+    {
+      "name": "Dodol Kacang Merah (350)",
+      "price": 28900,
+      "priceBeforeDiscount": 50000,
+      "image": "./assets/img/legieta/dodol-merah.webp",
+      "bestSeller": false,
+      "linkShopee": "",
+      "linkTokopedia": ""
+    },
+    {
+      "name": "Dodol Kacang Hijau (350g)",
+      "price": 27800,
+      "priceBeforeDiscount": 50000,
+      "image": "./assets/img/legieta/dodol.webp",
+      "bestSeller": false,
+      "linkShopee": "",
+      "linkTokopedia": ""
+    },
+    {
+      "name": "Angleng (400g)",
+      "price": 26100,
+      "priceBeforeDiscount": 50000,
+      "image": "./assets/img/legieta/angleng.webp",
+      "bestSeller": false,
+      "linkShopee": "",
+      "linkTokopedia": ""
     }
   ],
   "socialMedia": [
@@ -95,22 +140,28 @@
     {
       "image": "./assets/img/legieta/thumbnail-1.webp",
       "url": "https://www.instagram.com/reel/DMtkgcCzNsE/?igsh=MTQ1OGg2d3E1ejdycg=="
-    }, {
+    },
+    {
       "image": "./assets/img/legieta/thumbnail-10.webp",
       "url": "https://www.instagram.com/reel/DVQE4D4D4CB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-    }, {
+    },
+    {
       "image": "./assets/img/legieta/thumbnail-5.webp",
       "url": "https://www.instagram.com/reel/DUpyKh4EW0v/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-    }, {
+    },
+    {
       "image": "./assets/img/legieta/thumbnail-6.webp",
       "url": "https://www.instagram.com/reel/DRRq0tkD3T7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-    }, {
+    },
+    {
       "image": "./assets/img/legieta/thumbnail-7.webp",
       "url": "https://www.instagram.com/reel/DO5p-8Ek5cW/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-    }, {
+    },
+    {
       "image": "./assets/img/legieta/thumbnail-8.webp",
       "url": "https://www.instagram.com/reel/DNXqwI0StDC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-    }, {
+    },
+    {
       "image": "./assets/img/legieta/thumbnail-9.webp",
       "url": "https://www.instagram.com/reel/DKJRFiPzUxq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     }
