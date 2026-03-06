@@ -177,7 +177,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         data.socialMedia.forEach((s) => {
-          const socialHtml = `
+          const socialHtml = /*html*/ `
                     <div class="col-lg-12">
                         <a class="instagram-card" onclick="" href="${s.url}" target="_blank">
                             <img src="${s.image}" alt="img" />
