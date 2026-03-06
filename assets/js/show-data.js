@@ -150,10 +150,6 @@ document.addEventListener("DOMContentLoaded", function () {
                             </a>
                             <div class="product-content">
                                 <h3 class="product-title"><a href="#cta-area">${p.name}</a></h3>
-                                <span class="price">
-                                    <del>${formatRupiah(p.priceBeforeDiscount)}</del>
-                                    ${formatRupiah(p.price)}
-                                </span>
                             </div>
                         </div>
                     </div>`;
