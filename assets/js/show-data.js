@@ -62,11 +62,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
         data.headline.forEach((h) => {
           const headlineHtml = `
-                    <div class="hero-slider" data-bg-src="${h.image}" style="background-image: url('${h.image}');">
-                        <div class="hero-overlay" data-overlay="title" data-opacity="8"></div>
+                    <div class="hero-slider" data-bg-src="${h.image}" style="background-image: url('${h.image}'); background-size: cover; background-position: center; height: calc(100vh - 100px);">
+                        <div class="hero-overlay" style="display: grid; align-items: center;" data-overlay="title" data-opacity="8"></div>
                         <div class="container container3">
                             <div class="row">
-                                <div class="col-lg-6 col-md-7">
+                                <div class="col-md-7 align-center">
                                     <div class="hero-style18">
                                         <h1 class="hero-title" data-ani="slideinleft" data-ani-delay="0.1s">
                                             ${h.title}
@@ -144,20 +144,12 @@ document.addEventListener("DOMContentLoaded", function () {
           const productHtml = `
                     <div class="col-xl-3 col-sm-6 col-6">
                         <div class="product-card">
-                            <div class="product-img">
+                            <a href="#cta-area" class="product-img">
                                 <img src="${p.image}" alt="${p.name}">
-                                <div class="actions">
-                                    <a href="#cta-area" class="btn">
-                                        <span class="link-effect">
-                                            <span class="effect-1">BELI</span>
-                                            <span class="effect-1">BELI</span>
-                                        </span>
-                                    </a>
-                                </div>
                                 ${bestSellerTag}
-                            </div>
+                            </a>
                             <div class="product-content">
-                                <h3 class="product-title"><a href="shop-details.html">${p.name}</a></h3>
+                                <h3 class="product-title"><a href="#cta-area">${p.name}</a></h3>
                                 <span class="price">
                                     <del>${formatRupiah(p.priceBeforeDiscount)}</del>
                                     ${formatRupiah(p.price)}

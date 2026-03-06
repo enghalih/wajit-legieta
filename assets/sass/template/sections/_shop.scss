@@ -129,11 +129,7 @@
         font-weight: 600;
         margin: 10px 0 7px 0;
         a {
-            color: inherit;
-
-            &:hover {
-                color: $title-color;
-            }
+            color: $body-color;
         }
         @include sm {
             font-size: 20px;
@@ -163,6 +159,7 @@
         background-color: $smoke-color;
         z-index: 2;
         border-radius: 0px;
+        display: block;
 
         img {
             transition: all ease 0.4s;

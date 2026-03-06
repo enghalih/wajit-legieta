@@ -1144,6 +1144,7 @@
 
 /* Hero 18 ---------------------------------- */
 .hero-18 {
+  margin-top: 100px;
   .hero-overlay {
     height: 100%;
     width: 100%;
@@ -1175,22 +1176,7 @@
   }
 }
 .hero-style18 {
-  padding: 392px 0 140px;
-  @include xxl {
-    padding: 300px 0 140px;
-  }
-  @include xl {
-    padding: 280px 0 140px;
-  }
-  @include lg {
-    padding: 250px 0 120px;
-  }
-  @include sm {
-    padding: 200px 0 120px;
-  }
-  @include xs {
-    padding: 180px 0 80px;
-  }
+  padding: calc((100vh - 300px) / 2) 0;
   .hero-title {
     font-size: 80px;
     line-height: 1.125em;

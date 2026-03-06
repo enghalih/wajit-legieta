@@ -1281,8 +1281,9 @@ textarea.is-invalid {
   visibility: hidden;
 }
 .mobile-menu-wrapper .mobile-logo {
-  padding: 35px 0px 50px;
-  display: block;
+  padding: 35px 0px 16px;
+  display: grid;
+  gap: 16px;
   text-align: start;
   background-color: var(--white-color);
 }
@@ -8038,6 +8039,9 @@ ul.wp-block-latest-posts li:last-child {
 }
 
 /* Hero 18 ---------------------------------- */
+.hero-18 {
+  margin-top: 100px;
+}
 .hero-18 .hero-overlay {
   height: 100%;
   width: 100%;
@@ -8074,45 +8078,7 @@ ul.wp-block-latest-posts li:last-child {
 }
 
 .hero-style18 {
-  padding: 392px 0 140px;
-  /* Extra large devices */
-}
-@media (max-width: 1500px) {
-  .hero-style18 {
-    padding: 300px 0 140px;
-  }
-}
-.hero-style18 {
-  /* Medium Large devices */
-}
-@media (max-width: 1299px) {
-  .hero-style18 {
-    padding: 280px 0 140px;
-  }
-}
-.hero-style18 {
-  /* Large devices */
-}
-@media (max-width: 1199px) {
-  .hero-style18 {
-    padding: 250px 0 120px;
-  }
-}
-.hero-style18 {
-  /* Small devices */
-}
-@media (max-width: 767px) {
-  .hero-style18 {
-    padding: 200px 0 120px;
-  }
-}
-.hero-style18 {
-  /* Extra small devices */
-}
-@media (max-width: 575px) {
-  .hero-style18 {
-    padding: 180px 0 80px;
-  }
+  padding: calc((100vh - 300px) / 2) 0;
 }
 .hero-style18 .hero-title {
   font-size: 80px;
@@ -13799,10 +13765,7 @@ blockquote {
   margin: 10px 0 7px 0;
 }
 .product-card .product-title a {
-  color: inherit;
-}
-.product-card .product-title a:hover {
-  color: var(--title-color);
+  color: var(--body-color);
 }
 .product-card .product-title {
   /* Small devices */
@@ -13834,6 +13797,7 @@ blockquote {
   background-color: var(--smoke-color);
   z-index: 2;
   border-radius: 0px;
+  display: block;
 }
 .product-card .product-img img {
   transition: all ease 0.4s;

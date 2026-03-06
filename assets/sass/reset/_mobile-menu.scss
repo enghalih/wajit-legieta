@@ -3,7 +3,7 @@
   top: 0;
   left: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.60);
+  background-color: rgba(0, 0, 0, 0.6);
   z-index: 999999;
   width: 0;
   width: 100%;
@@ -12,11 +12,11 @@
   opacity: 0;
   visibility: hidden;
 
-
   // Mobile Menu Logo
   .mobile-logo {
-    padding: 35px 0px 50px;
-    display: block;
+    padding: 35px 0px 16px;
+    display: grid;
+    gap: 16px;
     text-align: start;
     background-color: $white-color;
     svg {
@@ -91,7 +91,6 @@
   }
 }
 
-
 // Mobile Menu
 .mobile-menu {
   overflow-y: scroll;
@@ -128,7 +127,7 @@
         }
       }
       &.active-class {
-        >a {
+        > a {
           color: $title-color;
 
           &:before {
@@ -160,7 +159,7 @@
     }
 
     .submenu-item-has-children {
-      >a {
+      > a {
         .mean-expand-class {
           position: absolute;
           right: 0;
@@ -178,7 +177,7 @@
           border-radius: 50%;
 
           &:before {
-            content: '\f107';
+            content: "\f107";
             font-family: $icon-font;
             font-weight: 700;
           }
@@ -186,24 +185,23 @@
       }
 
       &.active-class {
-        >a {
+        > a {
           .mean-expand-class:before {
-            content: '\f106';
+            content: "\f106";
           }
         }
       }
     }
   }
 
-  >ul {
-    >li {
+  > ul {
+    > li {
       &:last-child {
         border-bottom: none;
       }
     }
   }
 }
-
 
 @media (max-width: 400px) {
   .mobile-menu-wrapper .mobile-menu-area {

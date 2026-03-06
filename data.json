@@ -94,33 +94,39 @@
     },
     {
       "image": "./assets/img/legieta/thumbnail-1.webp",
-      "url": "https://www.instagram.com/reel/DMtkgcCzNsE/?igsh=MTQ1OGg2d3E1ejdycg== instagram"
-    },
-    {
-      "image": "./assets/img/legieta/thumbnail-3.webp",
-      "url": "https://www.tiktok.com/@legieta_/video/7604426039808347413?is_from_webapp=1&sender_device=pc&web_id=7575445521805051399"
-    },
-    {
-      "image": "./assets/img/legieta/thumbnail-4.webp",
-      "url": "https://www.tiktok.com/@legieta_/video/7607896675650227477?is_from_webapp=1&sender_device=pc&web_id=7575445521805051399"
-    },
-    {
+      "url": "https://www.instagram.com/reel/DMtkgcCzNsE/?igsh=MTQ1OGg2d3E1ejdycg=="
+    }, {
+      "image": "./assets/img/legieta/thumbnail-10.webp",
+      "url": "https://www.instagram.com/reel/DVQE4D4D4CB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    }, {
       "image": "./assets/img/legieta/thumbnail-5.webp",
-      "url": "https://www.instagram.com/reel/DQi7e3Ckghx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+      "url": "https://www.instagram.com/reel/DUpyKh4EW0v/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    }, {
+      "image": "./assets/img/legieta/thumbnail-6.webp",
+      "url": "https://www.instagram.com/reel/DRRq0tkD3T7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    }, {
+      "image": "./assets/img/legieta/thumbnail-7.webp",
+      "url": "https://www.instagram.com/reel/DO5p-8Ek5cW/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    }, {
+      "image": "./assets/img/legieta/thumbnail-8.webp",
+      "url": "https://www.instagram.com/reel/DNXqwI0StDC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    }, {
+      "image": "./assets/img/legieta/thumbnail-9.webp",
+      "url": "https://www.instagram.com/reel/DKJRFiPzUxq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     }
   ],
   "headline": [
     {
-      "title": "Manisnya Tradisi, Eratkan Silaturahmi.",
-      "image": "./assets/img/legieta/hero-image-2.webp"
+      "title": "Manisnya Legieta, Maniskan Harimu.",
+      "image": "./assets/img/legieta/hero-image-4.webp"
     },
     {
-      "title": "Wajit Legieta: Alasan Untuk Berkumpul.",
-      "image": "./assets/img/legieta/hero-image-1.webp"
+      "title": "Manisnya Tradisi, Eratkan Silaturahmi.",
+      "image": "./assets/img/legieta/hero-image-5.webp"
     },
     {
       "title": "Berbagi Cerita dalam Setiap Gigitan.",
-      "image": "./assets/img/legieta/hero-image-5.webp"
+      "image": "./assets/img/legieta/hero-image-7.webp"
     }
   ]
 }
